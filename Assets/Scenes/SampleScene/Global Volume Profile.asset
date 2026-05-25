@@ -697,7 +697,9 @@ MonoBehaviour:
   active: 1
   diffusionProfiles:
     m_OverrideState: 1
-    m_Value: []
+    m_Value:
+    - {fileID: 11400000, guid: 404820c4cf36ad944862fa59c56064f0, type: 2}
+    - {fileID: 11400000, guid: 2384dbf2c1c420f45a792fbc315fbfb1, type: 2}
 --- !u!114 &-2280867954051427269
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -1950,16 +1952,16 @@ MonoBehaviour:
     m_Value: 1
   colorMode:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 0
   color:
     m_OverrideState: 1
-    m_Value: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    m_Value: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 1}
   tint:
     m_OverrideState: 1
     m_Value: {r: 1, g: 1, b: 1, a: 1}
   maxFogDistance:
     m_OverrideState: 1
-    m_Value: 5000
+    m_Value: 144.3
   mipFogMaxMip:
     m_OverrideState: 1
     m_Value: 0.5
@@ -1971,13 +1973,13 @@ MonoBehaviour:
     m_Value: 1000
   baseHeight:
     m_OverrideState: 1
-    m_Value: -330.7
+    m_Value: 42.1
   maximumHeight:
     m_OverrideState: 1
-    m_Value: 3837.6
+    m_Value: 460.3
   meanFreePath:
     m_OverrideState: 1
-    m_Value: 163.8
+    m_Value: 100.2
   enableVolumetricFog:
     m_OverrideState: 1
     m_Value: 1
@@ -2050,10 +2052,10 @@ MonoBehaviour:
     m_Value: 1
   upperHemisphereLuxValue:
     m_OverrideState: 1
-    m_Value: 0.009090038
+    m_Value: 1.8113854
   upperHemisphereLuxColor:
     m_OverrideState: 1
-    m_Value: {x: 0.0010451034, y: 0.0014319221, z: 0.5}
+    m_Value: {x: 0.19870684, y: 0.2980229, z: 0.5}
   desiredLuxValue:
     m_OverrideState: 1
     m_Value: 20000
@@ -2081,7 +2083,7 @@ MonoBehaviour:
     m_Value: 1
   hdriSky:
     m_OverrideState: 1
-    m_Value: {fileID: 8900000, guid: 6b14f3b4e0f9b0f48977fd2d27e03dfa, type: 3}
+    m_Value: {fileID: 8900000, guid: 4f6bec75bfe65ad49a0826debe902b30, type: 3}
   distortionMode:
     m_OverrideState: 1
     m_Value: 0
@@ -2193,10 +2195,10 @@ MonoBehaviour:
     m_Value: 1
   m_MinSmoothness:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 0.9
   m_SmoothnessFadeStart:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 0.9
   reflectSky:
     m_OverrideState: 1
     m_Value: 1

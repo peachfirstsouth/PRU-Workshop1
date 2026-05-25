@@ -1,5 +1,12 @@
 fileFormatVersion: 2
 guid: 4f6bec75bfe65ad49a0826debe902b30
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32236
+  packageName: '10 Skyboxes Pack : Day - Night'
+  packageVersion: 2.0
+  assetPath: Assets/Day-Night Skyboxes/Textures/SkyNoon_Right.png
+  uploadId: 139764
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -55,7 +62,7 @@ TextureImporter:
   alphaIsTransparency: 0
   spriteTessellationDetail: -1
   textureType: 0
-  textureShape: 1
+  textureShape: 2
   singleChannelComponent: 0
   flipbookRows: 1
   flipbookColumns: 1
@@ -141,10 +148,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 32236
-  packageName: '10 Skyboxes Pack : Day - Night'
-  packageVersion: 2.0
-  assetPath: Assets/Day-Night Skyboxes/Textures/SkyNoon_Right.png
-  uploadId: 139764
